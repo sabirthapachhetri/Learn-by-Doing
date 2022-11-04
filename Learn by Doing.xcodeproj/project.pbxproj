@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5CBA5FCB291514B20092C310 /* CardModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBA5FCA291514B20092C310 /* CardModel.swift */; };
+		5CBA5FCD291515A60092C310 /* CardData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBA5FCC291515A60092C310 /* CardData.swift */; };
 		5CD375AC2913AFEF0097A99D /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD375AB2913AFEF0097A99D /* CardView.swift */; };
 		5CE40DFE291122BF00EF066C /* Learn_by_DoingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE40DFD291122BF00EF066C /* Learn_by_DoingApp.swift */; };
 		5CE40E00291122BF00EF066C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE40DFF291122BF00EF066C /* ContentView.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5CBA5FCA291514B20092C310 /* CardModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardModel.swift; sourceTree = "<group>"; };
+		5CBA5FCC291515A60092C310 /* CardData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardData.swift; sourceTree = "<group>"; };
 		5CD375AB2913AFEF0097A99D /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		5CE40DFA291122BF00EF066C /* Learn by Doing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Learn by Doing.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CE40DFD291122BF00EF066C /* Learn_by_DoingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn_by_DoingApp.swift; sourceTree = "<group>"; };
@@ -61,6 +65,8 @@
 				5CE40DFF291122BF00EF066C /* ContentView.swift */,
 				5CE40E0B2911274E00EF066C /* LaunchScreenView.swift */,
 				5CD375AB2913AFEF0097A99D /* CardView.swift */,
+				5CBA5FCA291514B20092C310 /* CardModel.swift */,
+				5CBA5FCC291515A60092C310 /* CardData.swift */,
 				5CE40E01291122C700EF066C /* Assets.xcassets */,
 				5CE40E03291122C700EF066C /* Preview Content */,
 			);
@@ -148,7 +154,9 @@
 				5CE40E00291122BF00EF066C /* ContentView.swift in Sources */,
 				5CE40DFE291122BF00EF066C /* Learn_by_DoingApp.swift in Sources */,
 				5CD375AC2913AFEF0097A99D /* CardView.swift in Sources */,
+				5CBA5FCD291515A60092C310 /* CardData.swift in Sources */,
 				5CE40E0C2911274E00EF066C /* LaunchScreenView.swift in Sources */,
+				5CBA5FCB291514B20092C310 /* CardModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
